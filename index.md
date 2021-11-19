@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Ken Mills
 
-You can use the [editor on GitHub](https://github.com/ken-mills/about-me/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a Laravel and Vue.js developer. If you have a web based project and
+want to partner on an MVP or web application, email me at [ken@pkmills.com](mailto:ken@pkmills.com).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## In the beginning...
+* Worked with great software and hardware engineers on two ground station projects for GE.
+* Earned my project management wings working for NASA on [STGT](https://www.nasa.gov/directorates/heo/scan/images/history/April1994.html)
+* Toolbox:
+  * Assembly
+  * Fortran
+  * Ada
 
-### Markdown
+## After that...
+* Led a dedicated team of software and hardware professionals
+* that developed integrated ERP, CRM, and LMS systems
+* Toolbox:
+  * Oracle SQL/PLSQL/Forms/Reports
+  * C/C++, HTML, CMS, PHP 5, JavaScript, XML, XSL
+  * Git, Jira, Scrum
+* Led integrations with:
+  * CyberCash/Paypal, Ariba, Bazaarvoice, Vertex
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ken-mills/about-me/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Now...
+* Freelance IT Consultant and Developer
+* APIs: SurveyMonkey, SalesForce, Google Maps, Google Charts
+* Addicted to [Laravel,](http://laravel.com/) [ Laracon,](http://laracon.us/)  and  [Vue.js](http://vuejs.org.us/)
+* Raising money for the [MS Society City to Shore Bike Ride](http://main.nationalmssocietyorg/site/TR/Bike/PAEBikeEvents?px=4234843&pg=personal&fr_id=27061)
+* Member of the [West Chester Cycling Club](http://www.wccyclingclub.com/)
+* Toolbox:
+  * Laravel, Vue.js, PhpStorm, Git, Github, Jira, Pusher, Sparkpost
