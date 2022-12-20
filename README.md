@@ -1,7 +1,4 @@
-# Ken Mills
-
-I'm a Laravel and Vue.js developer. If you have a web based project and
-want to partner on an MVP or web application, email me at [ken@pkmills.com](mailto:ken@pkmills.com).
+# Ken Mills - Retired
 
 ## In the beginning...
 * Worked with great software and hardware engineers on two ground station projects for GE.
@@ -21,7 +18,7 @@ want to partner on an MVP or web application, email me at [ken@pkmills.com](mail
 * Led integrations with:
   * CyberCash/Paypal, Ariba, Bazaarvoice, Vertex
 
-## Now...
+## After that...
 * Freelance IT Consultant and Developer
 * APIs: SurveyMonkey, SalesForce, Google Maps, Google Charts
 * Addicted to [Laravel,](http://laravel.com/) [ Laracon,](http://laracon.us/)  and  [Vue.js](http://vuejs.org.us/)
@@ -29,3 +26,7 @@ want to partner on an MVP or web application, email me at [ken@pkmills.com](mail
 * Member of the [West Chester Cycling Club](http://www.wccyclingclub.com/)
 * Toolbox:
   * Laravel, Vue.js, PhpStorm, Git, Github, Jira, Pusher, Sparkpost
+  
+## Now
+* Retired
+* Loving Life
