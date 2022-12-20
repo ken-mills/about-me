@@ -21,11 +21,9 @@
 ## After that...
 * Freelance IT Consultant and Developer
 * APIs: SurveyMonkey, SalesForce, Google Maps, Google Charts
-* Addicted to [Laravel,](http://laravel.com/) [ Laracon,](http://laracon.us/)  and  [Vue.js](http://vuejs.org.us/)
+* Frameworks [Laravel](http://laravel.com/) and  [Vue.js](http://vuejs.org.us/)
 * Raising money for the [MS Society City to Shore Bike Ride](http://main.nationalmssocietyorg/site/TR/Bike/PAEBikeEvents?px=4234843&pg=personal&fr_id=27061)
 * Member of the [West Chester Cycling Club](http://www.wccyclingclub.com/)
-* Toolbox:
-  * Laravel, Vue.js, PhpStorm, Git, Github, Jira, Pusher, Sparkpost
   
 ## Now...
 * Retired
