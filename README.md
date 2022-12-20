@@ -27,6 +27,6 @@
 * Toolbox:
   * Laravel, Vue.js, PhpStorm, Git, Github, Jira, Pusher, Sparkpost
   
-## Now
+## Now...
 * Retired
 * Loving Life
